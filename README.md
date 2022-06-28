@@ -19,5 +19,5 @@ It has tools to ease life of students by providing following features :
 ## Screenshots
 
 <pre>
-<img src="1 2.jpg" width="250"> <img src="2.jpg" width="250"> <img src="4.jpg" width="250"> <img src="5.jpg" width="250"> <img src="6.jpeg" width="250">
+<img src="1 2.jpg" width="250"> <img src="2.jpg" width="250"> <img src="4.jpg" width="250"> <img src="5.jpg" width="250"> <img src="6.jpeg" width="250"><img src="7.jpeg" width="250"><img src="8.jpeg" width="250">
 </pre>
